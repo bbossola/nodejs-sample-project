@@ -2,9 +2,14 @@
   "name": "nodejs-sample-project",
   "version": "1.0.0",
   "license": "MIT",
+  "main": "App.js",
   "dependencies": {
     "debug": "^3.2.7"
   },
+  "scripts": {
+    "ci": "npm ci",
+    "run": "node App.js"
+  },  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bbossola/nodejs-sample-project.git"
