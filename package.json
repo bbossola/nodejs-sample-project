@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-sample-project",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbossola/nodejs-sample-project.git"
+  }
+}
